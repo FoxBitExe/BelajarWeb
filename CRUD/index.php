@@ -100,7 +100,7 @@
 
 <body>
   <div class="container">
-    <h1 class="text-center">BELAJAR CRUD</h1>
+    <h1 class="text-center">BELAJAR CRUD TERBARU</h1>
     <h2 class="text-center">Admin Panel</h2>
 
     <div class="card mt-3">
